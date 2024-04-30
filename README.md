@@ -1,5 +1,5 @@
 # B2C6_IAS
-Studenten repository voor Infrastructure As Code voor het vak B2C6 DevOps. In deze repository sla je alle infrastructure as code scripts/secrets/etc op. Elke klas heeft 1 repository voor IAS.
+Studenten repository voor Backend voor het vak B2C6 DevOps. De backend wordt gemaakt in Python. Elke klas heeft 1 repository voor Backend.
 
 
 
